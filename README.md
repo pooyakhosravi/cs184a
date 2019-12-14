@@ -2,7 +2,7 @@
 This repository contains jupyter notebooks used for CS184A project.
 
 
-Paper refences are included in the report.
+Paper references are included in the report.
 
 
 ## Transfer learning References
